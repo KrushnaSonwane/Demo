@@ -1,2 +1,2 @@
 Hi this is message file
-"new feature(modifeid)"
+"new fea(modifeid)"
