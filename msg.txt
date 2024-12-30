@@ -1,1 +1,2 @@
 Hi this is message file
+"new feature"
